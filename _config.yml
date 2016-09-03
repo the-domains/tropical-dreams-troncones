@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.123946
 color:
   lightness: 0.5092749
@@ -11,4 +10,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 1
+author:
+  name: Ernie Gorrie
+  email: Ernie.Gorrie@gmail.com
 name: Tropical Dreams Troncones
